@@ -11,3 +11,4 @@ start BE server and react app by :
 
 npm i -D json-server concurrently
 npm install materialize-css
+npm i moment react-moment
