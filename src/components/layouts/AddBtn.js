@@ -22,7 +22,7 @@ const AddBtn = () => {
 
         <li>
           <a
-            href="#tech-modal"
+            href="#add-tech-modal"
             className="btn-floating waves-effect waves-light blue modal-trigger"
           >
             <i className="material-icons">person_add</i>
