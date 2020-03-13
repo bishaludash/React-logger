@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 
 const TechItem = ({ tech }) => {
-  console.log(tech);
   return (
     <ul className="collection">
       <li className="collection-item">
