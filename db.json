@@ -27,6 +27,20 @@
       "attention": false,
       "tech": "Sara Wilson",
       "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "message": "final count down",
+      "attention": true,
+      "tech": "1",
+      "date": "2020-03-14T11:18:44.109Z",
+      "id": 5
+    },
+    {
+      "message": "can add a new log",
+      "attention": true,
+      "tech": "3",
+      "date": "2020-03-14T11:20:06.290Z",
+      "id": 6
     }
   ],
   "techs": [
