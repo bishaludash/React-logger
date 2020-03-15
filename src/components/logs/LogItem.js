@@ -9,7 +9,6 @@ const LogItem = ({ log, deleteLog, setCurrent }) => {
     deleteLog(log.id);
   };
 
-  const onEdit = () => {};
   return (
     <li className="collection-item">
       <a

@@ -69,14 +69,12 @@ export const deleteLog = id => async dispatch => {
 
 // update log to server
 export const updateLog = log => async dispatch => {
-  console.log(log);
   try {
     setLoading();
-    const res = axios.put(`/logs/${log.id}`, { log });
+    const res = await axios.put(`/logs/${log.id}`, log);
     const data = res.data;
-
     dispatch({
-      type: DELETE_LOG,
+      type: UPDATE_LOG,
       payload: data
     });
   } catch (error) {

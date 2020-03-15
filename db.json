@@ -23,17 +23,17 @@
     },
     {
       "id": 4,
-      "message": "Workstation 026 is up and running",
+      "message": "Complete that project baby bababa",
       "attention": false,
       "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "date": "2020-03-15T08:52:50.646Z"
     },
     {
-      "message": "final count down",
+      "id": 5,
+      "message": "Learn react js by march",
       "attention": true,
-      "tech": "1",
-      "date": "2020-03-14T11:18:44.109Z",
-      "id": 5
+      "tech": "John",
+      "date": "2020-03-15T08:54:30.153Z"
     }
   ],
   "techs": [
