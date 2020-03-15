@@ -61,9 +61,9 @@ const AddLogModal = ({ addLogs }) => {
               <option value="" disabled>
                 Select Technician
               </option>
-              <option value="1">John</option>
-              <option value="2">Brad</option>
-              <option value="3">Sugat</option>
+              <option value="John">John</option>
+              <option value="Brad">Brad</option>
+              <option value="Sugat">Sugat</option>
             </select>
           </div>
         </div>
